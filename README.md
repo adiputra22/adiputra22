@@ -1,6 +1,6 @@
 ### Hi there My Name I Nyoman Martin Adiputra
 
-#### Have working in Web Development since 2011. From Codeigniter to Laravel. Learning about NodeJS, Python, etc. Now I like Golang.
+#### Have working in Web Development since 2011. From Codeigniter to Laravel. Learning about NodeJS, Python, Flutter. Now I like Golang.
 
 [![Adiputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiputra22&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
