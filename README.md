@@ -1,6 +1,6 @@
 ### Hi there My Name I Nyoman Martin Adiputra
 
-#### Have working in Web Development since 2011. From Codeigniter to Laravel. Learning about NodeJS, Python, Flutter. Now I like Golang.
+#### I bave been work in Web Development since 2011. Build web application for local companies in Indonesia. Then start remote working in 2018 with company in Malaysia and now work with Upwork platform as freelancer.
 
 <a href="https://github.com/adiputra22">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adiputra22&theme=dark&show_icons=true&count_private=true&hide=contribs&line_height=40" />
