@@ -1,6 +1,6 @@
 ### Hi there My Name I Nyoman Martin Adiputra
 
-#### I bave been work in Web Development since 2011. Build web application for local companies in Indonesia. Then start remote working in 2018 with company in Malaysia and now work with Upwork platform as freelancer.
+#### I have been work in Web Development since 2011. Build web application for local companies in Indonesia, then start remote working in 2018 with company in Malaysia and now work with <a href="https://www.upwork.com/freelancers/~0169a140b3c1a2b49b">Upwork</a> platform as freelancer.
 
 <a href="https://github.com/adiputra22">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adiputra22&theme=dark&show_icons=true&count_private=true&hide=contribs&line_height=40" />
