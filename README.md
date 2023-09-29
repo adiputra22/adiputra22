@@ -1,4 +1,4 @@
-### Hi there My Name I Nyoman Martin Adiputra
+Hi there My name I Nyoman Martin Adiputra
 
 I have been work in Web Development since 2011. Build web application for local companies in Indonesia, then start remote working in 2018 with company in Malaysia and now work with <a href="https://www.upwork.com/freelancers/~0169a140b3c1a2b49b">Upwork</a> platform as freelancer.
 
